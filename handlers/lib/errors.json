@@ -1,0 +1,5 @@
+{
+	"missingArg": "**Missing argument**: `{argName}`\n**Command format**: `?{command} {argName}`",
+	"tooManyArgs": "**Command format**: `?{command} {argName}`",
+	"noMatchingArg": "**Arguments Not Found**: `{arg}`\nSupported arguments: `{argNames}`"
+}
